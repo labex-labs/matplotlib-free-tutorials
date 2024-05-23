@@ -6,8 +6,8 @@
 
 Matplotlib is a Python library for creating visualizations of data. It provides a wide range of plotting tools, including line plots, scatter plots, bar charts, histograms, and more. In this skill tree, you'll learn how to use Matplotlib to create basic visualizations of data.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                              |
-|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                             |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Your First Matplotlib Lab                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-matplotlib-lab-92737)                                        |
 |     002 | 📖 Create a Line Plot With Matplotlib                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/create-a-line-plot-with-matplotlib-71147)                               |
 |     003 | 📖 Matplotlib Pyplot Interface Tutorial                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-pyplot-interface-tutorial-71148)                             |
@@ -540,7 +540,8 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Matplotlib Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
