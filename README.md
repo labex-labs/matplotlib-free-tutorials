@@ -16,7 +16,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     006 | 📖 Customizing Matplotlib Visualizations                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-customizing-matplotlib-visualizations-71151)                        |
 |     007 | 📖 Demo Tight Layout                                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-demo-tight-layout-48689)                                            |
 |     008 | 📖 Print Stdout Sgskip                                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-print-stdout-sgskip-48882)                                          |
-|     009 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-in-python-48846)                               |
+|     009 | 📖 Visualizing Named Colors with Matplotlib              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-visualizing-named-colors-with-matplotlib-48846)                         |
 |     010 | 📖 Adjusting Matplotlib Drawing Order                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-adjusting-matplotlib-drawing-order-49040)                           |
 |     011 | 📖 Matplotlib Plotting for Python Beginners              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-plotting-for-python-beginners-48887)                     |
 |     012 | 📖 Matplotlib Legend Creation Tutorial                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-legend-creation-tutorial-48942)                              |
@@ -41,7 +41,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     031 | 📖 PGF Preamble Sgskip                                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-pgf-preamble-sgskip-48862)                                          |
 |     032 | 📖 Matplotlib Plot Title Positioning                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-plot-title-positioning-48998)                            |
 |     033 | 📖 Matplotlib Python Data Visualization Tutorial         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-python-data-visualization-tutorial-48800)                |
-|     034 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-in-python-48780)                               |
+|     034 | 📖 Customizing Matplotlib Visualizations in Python       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizing-matplotlib-visualizations-in-python-48780)                  |
 |     035 | 📖 Customizing Matplotlib Defaults with Python           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizing-matplotlib-defaults-with-python-48646)                      |
 |     036 | 📖 Matplotlib Visualization Techniques for Data Analy... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-techniques-for-data-analysis-48980)            |
 |     037 | 📖 Creating TickedStroke in Matplotlib                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-tickedstroke-in-matplotlib-48992)                              |
@@ -66,8 +66,8 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     056 | 📖 Clipping Images With Patches                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-clipping-images-with-patches-48778)                                 |
 |     057 | 📖 Create 3D Plots with Error Bars in Python             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-3d-plots-with-error-bars-in-python-48717)                        |
 |     058 | 📖 Matplotlib: Error Bar Rendering on Polar Axis         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-error-bar-rendering-on-polar-axis-48873)                     |
-|     059 | 📖 Matplotlib 3D Contour Plot                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-contour-plot-48625)                                       |
-|     060 | 📖 Matplotlib 3D Contour Plot                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-contour-plot-48630)                                       |
+|     059 | 📖 Creating 3D Contour Visualizations                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-3d-contour-visualizations-48625)                               |
+|     060 | 📖 Create 3D Contour Plots with Matplotlib               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-3d-contour-plots-with-matplotlib-48630)                          |
 |     061 | 📖 Matplotlib Quiver Plot                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-quiver-plot-48894)                                           |
 |     062 | 📖 Interpolation From Triangular to Quad Grid            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-interpolation-from-triangular-to-quad-grid-49009)                   |
 |     063 | 📖 Matplotlib Infinite Line Visualization                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-infinite-line-visualization-48570)                       |
@@ -97,7 +97,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     087 | 📖 Interactive Colormap Adjustment                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-interactive-colormap-adjustment-48610)                                  |
 |     088 | 📖 Basic Errorbar Function                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-basic-errorbar-function-48716)                                          |
 |     089 | 📖 Create 3D Plots with Matplotlib in Python             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-3d-plots-with-matplotlib-in-python-48848)                        |
-|     090 | 📖 Matplotlib 3D Surface Plotting                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-surface-plotting-48970)                                   |
+|     090 | 📖 Creating 3D Surface Plots with Matplotlib             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-3d-surface-plots-with-matplotlib-48970)                        |
 |     091 | 📖 3D Surface Plotting with Polar Coordinates            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-3d-surface-plotting-with-polar-coordinates-48972)                       |
 |     092 | 📖 Combining Subplots With GridSpec                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-combining-subplots-with-gridspec-48757)                                 |
 |     093 | 📖 3D Contour Plotting with Matplotlib                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-3d-contour-plotting-with-matplotlib-48623)                          |
@@ -108,7 +108,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     098 | 📖 Create Polar Bar Chart with Python Matplotlib         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-polar-bar-chart-with-python-matplotlib-48871)                    |
 |     099 | 📖 Creating a Color Demo Chart                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-color-demo-chart-48607)                                      |
 |     100 | 📖 Creating a Line Plot                                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-line-plot-48869)                                             |
-|     101 | 📖 Matplotlib Error Bar Visualization                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-error-bar-visualization-48712)                               |
+|     101 | 📖 Matplotlib Error Bar Customization                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-error-bar-customization-48712)                               |
 |     102 | 📖 Grouped Bar Chart Withels Using Matplotlib            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-grouped-bar-chart-withels-using-matplotlib-48579)                       |
 |     103 | 📖 Inverting Axes of a Matplotlib Plot                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-inverting-axes-of-a-matplotlib-plot-48790)                              |
 |     104 | 📖 Create Polar Line Plots with Python                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-polar-line-plots-with-python-48872)                              |
@@ -140,7 +140,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     130 | 📖 Major and Minor Ticks in Matplotlib                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-major-and-minor-ticks-in-matplotlib-48816)                              |
 |     131 | 📖 Matplotlib Subplot Creation Tutorial                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-subplot-creation-tutorial-48966)                             |
 |     132 | 📖 Scatter Plot on Polar Axis                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-scatter-plot-on-polar-axis-48875)                                   |
-|     133 | 📖 Matplotlib Scatter Plot                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-scatter-plot-48918)                                          |
+|     133 | 📖 Visualizing Variable Relationships                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-visualizing-variable-relationships-48918)                               |
 |     134 | 📖 Create Bar Graph with Matplotlib                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-bar-graph-with-matplotlib-48572)                                 |
 |     135 | 📖 Matplotlib Subplot Arrangement Using HBoxDivider a... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-subplot-arrangement-using-hboxdivider-and-vboxdivider-48663) |
 |     136 | 📖 Matplotlib Colorbar Inset Axes                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-colorbar-inset-axes-48670)                                   |
@@ -156,7 +156,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     146 | 📖 Matplotlib Visualization Tutorial                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-tutorial-48943)                                |
 |     147 | 📖 Annotate Plots with Matplotlib                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-annotate-plots-with-matplotlib-48543)                                   |
 |     148 | 📖 Annotating Matplotlib Plots with Coordinate System... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-annotating-matplotlib-plots-with-coordinate-systems-48545)              |
-|     149 | 📖 Matplotlib Error Bar Visualization                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-error-bar-visualization-48714)                               |
+|     149 | 📖 Creating Matplotlib Error Bar Plots                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-matplotlib-error-bar-plots-48714)                              |
 |     150 | 📖 Overlay Image on Matplotlib Plot                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-overlay-image-on-matplotlib-plot-49029)                                 |
 |     151 | 📖 Figure Size Units                                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-figure-size-units-48731)                                                |
 |     152 | 📖 Nested Pie Charts With Matplotlib                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-nested-pie-charts-with-matplotlib-48847)                                |
@@ -168,7 +168,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     158 | 📖 Matplotlib Data Visualization Techniques              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-data-visualization-techniques-48556)                         |
 |     159 | 📖 Interactive Matplotlib Visualization Techniques       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-interactive-matplotlib-visualization-techniques-48864)                  |
 |     160 | 📖 Matplotlib Fill Between and Alpha                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-fill-between-and-alpha-48733)                                |
-|     161 | 📖 Create Filled Contour Plots with Matplotlib           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-filled-contour-plots-with-matplotlib-48627)                      |
+|     161 | 📖 Filled Contour Plots with Hatching                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-filled-contour-plots-with-hatching-48627)                               |
 |     162 | 📖 Creating a Multipage PDF With Matplotlib              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-multipage-pdf-with-matplotlib-48839)                         |
 |     163 | 📖 Matplotlib Plotting with ggplot Style                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-plotting-with-ggplot-style-48753)                            |
 |     164 | 📖 Matplotlib Visualization with XKCD Style              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-with-xkcd-style-49037)                         |
@@ -191,13 +191,13 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     181 | 📖 Add Watermark to Matplotlib Plot                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-add-watermark-to-matplotlib-plot-49030)                                 |
 |     182 | 📖 Create Polar Graphs with Python Matplotlib            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-create-polar-graphs-with-python-matplotlib-48550)                   |
 |     183 | 📖 Annotation Connection Styles                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-annotation-connection-styles-48617)                                     |
-|     184 | 📖 Matplotlib Scatter Plot                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-scatter-plot-48912)                                          |
+|     184 | 📖 Customizable Scatter Plot Visualization               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizable-scatter-plot-visualization-48912)                          |
 |     185 | 📖 Creating a Bar of Pie Chart                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-bar-of-pie-chart-48574)                                      |
-|     186 | 📖 Creating Contour Plots with Matplotlib                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-contour-plots-with-matplotlib-48791)                           |
+|     186 | 📖 Irregular Data Grid Contour Plotting                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-irregular-data-grid-contour-plotting-48791)                             |
 |     187 | 📖 Programmatically Controlling Subplot Adjustment       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-programmatically-controlling-subplot-adjustment-48558)                  |
 |     188 | 📖 Formatting Tick Labels with Matplotlib                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-formatting-tick-labels-with-matplotlib-48910)                           |
 |     189 | 📖 Matplotlib 3D Surface and Contour Plotting            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-surface-and-contour-plotting-48624)                       |
-|     190 | 📖 Creating Contour Plots with Matplotlib                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-contour-plots-with-matplotlib-48631)                           |
+|     190 | 📖 Optimization Contour Plotting with Matplotlib         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-optimization-contour-plotting-with-matplotlib-48631)                    |
 |     191 | 📖 Efficient Line Plotting with Matplotlib               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-efficient-line-plotting-with-matplotlib-48804)                          |
 |     192 | 📖 Creating a Polygon in Matplotlib                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-polygon-in-matplotlib-48878)                                 |
 |     193 | 📖 Ellipse With Units                                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-ellipse-with-units-48699)                                               |
@@ -216,7 +216,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     206 | 📖 Creating a Pie Chart With Matplotlib                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-creating-a-pie-chart-with-matplotlib-48867)                         |
 |     207 | 📖 Contourf and Log Color Scale                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-contourf-and-log-color-scale-48628)                                     |
 |     208 | 📖 Connecting Matplotlib Figure Events                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-connecting-matplotlib-figure-events-48602)                          |
-|     209 | 📖 Matplotlib Axis Direction                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-axis-direction-48567)                                        |
+|     209 | 📖 Customizing Matplotlib Axis Direction                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizing-matplotlib-axis-direction-48567)                            |
 |     210 | 📖 Matplotlib Visualization Fundamentals                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-fundamentals-48535)                            |
 |     211 | 📖 Matplotlib Game: Pong                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-game-pong-48880)                                             |
 |     212 | 📖 Matplotlib 2D Data on 3D Plot                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-2d-data-on-3d-plot-48528)                                    |
@@ -283,8 +283,8 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     273 | 📖 Simple Matplotlib Axisline                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-simple-matplotlib-axisline-48937)                                       |
 |     274 | 📖 Matplotlib Simple Axisline3                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-simple-axisline3-48938)                                  |
 |     275 | 📖 Text Alignment in Matplotlib                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-text-alignment-in-matplotlib-48981)                                     |
-|     276 | 📖 Triangular 3D Contour Plot                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-triangular-3d-contour-plot-49005)                                       |
-|     277 | 📖 Triangular 3D Contour Plot                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-triangular-3d-contour-plot-49006)                                       |
+|     276 | 📖 Unstructured Triangular Grid Visualization            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-unstructured-triangular-grid-visualization-49005)                       |
+|     277 | 📖 Create Customized 3D Contour Plots                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-customized-3d-contour-plots-49006)                               |
 |     278 | 📖 Creating and Plotting Triangular Grids                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-and-plotting-triangular-grids-49011)                           |
 |     279 | 📖 More Triangular 3D Surfaces                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-more-triangular-3d-surfaces-49012)                                      |
 |     280 | 📖 3D Voxel Plotting With Matplotlib                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-3d-voxel-plotting-with-matplotlib-49028)                                |
@@ -309,7 +309,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     299 | 📖 Create Polar Plots with Matplotlib                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-polar-plots-with-matplotlib-48677)                               |
 |     300 | 📖 Creating Broken Axis Plots in Python                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-broken-axis-plots-in-python-48592)                             |
 |     301 | 📖 Matplotlib CapStyle Customization                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-capstyle-customization-48597)                            |
-|     302 | 📖 Create Filled Contour Plots with Matplotlib           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-filled-contour-plots-with-matplotlib-48626)                      |
+|     302 | 📖 Filled Contour Plots with Matplotlib                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-filled-contour-plots-with-matplotlib-48626)                             |
 |     303 | 📖 Matplotlib Pie Chart Filter                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-pie-chart-filter-48975)                                      |
 |     304 | 📖 Matplotlib Line Plot With Data Points                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-line-plot-with-data-points-48720)                            |
 |     305 | 📖 Create Customized Stock Price Graphs                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-customized-stock-price-graphs-48962)                             |
@@ -322,7 +322,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     312 | 📖 Custom Mercator Latitude Scale in Matplotlib          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-custom-mercator-latitude-scale-in-matplotlib-48643)                     |
 |     313 | 📖 Creating a Percentiles Horizontal Bar Chart           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-percentiles-horizontal-bar-chart-48578)                      |
 |     314 | 📖 Matplotlib Floating Axes                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-floating-axes-48676)                                         |
-|     315 | 📖 Matplotlib Image Plotting                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-image-plotting-48779)                                    |
+|     315 | 📖 Matplotlib Image Visualization Techniques             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-image-visualization-techniques-48779)                    |
 |     316 | 📖 Creating Scatter Plots With Legends                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-creating-scatter-plots-with-legends-48917)                          |
 |     317 | 📖 Scatter Hist Locatable Axes                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-scatter-hist-locatable-axes-48913)                                      |
 |     318 | 📖 Matplotlib Marker Customization Tutorial              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-marker-customization-tutorial-48820)                         |
@@ -352,7 +352,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     342 | 📖 Creating a Compound Path                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-compound-path-48614)                                         |
 |     343 | 📖 Matplotlib Subplot Generation Tutorial                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-subplot-generation-tutorial-48678)                           |
 |     344 | 📖 Matplotlib Ticklabel Direction                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-ticklabel-direction-48688)                                   |
-|     345 | 📖 Matplotlib Fonts Demo                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-fonts-demo-48746)                                            |
+|     345 | 📖 Customizing Text Font Properties                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizing-text-font-properties-48746)                                 |
 |     346 | 📖 Create Multicolored Matplotlib Lines                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-multicolored-matplotlib-lines-48836)                             |
 |     347 | 📖 Creating a Sankey Diagram                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-sankey-diagram-48909)                                        |
 |     348 | 📖 Plotting Sparsity Patterns                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-plotting-sparsity-patterns-48955)                                       |
@@ -371,10 +371,10 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     361 | 📖 Annotate Text Arrow                                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-annotate-text-arrow-48544)                                              |
 |     362 | 📖 Plotting With Keywords                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-plotting-with-keywords-48795)                                           |
 |     363 | 📖 Creating Custom Colorbar Tickels in Matplotlib        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-custom-colorbar-tickels-in-matplotlib-48609)                   |
-|     364 | 📖 Matplotlib Image Plotting                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-image-plotting-48660)                                        |
+|     364 | 📖 Customizing Matplotlib Axes and Colorbars             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizing-matplotlib-axes-and-colorbars-48660)                        |
 |     365 | 📖 Creating Shaded Relief Plots with Python              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-shaded-relief-plots-with-python-48924)                         |
 |     366 | 📖 Custom Hillshading in a 3D Surface Plot               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-custom-hillshading-in-a-3d-surface-plot-48644)                          |
-|     367 | 📖 Matplotlib 3D Surface Plotting                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-surface-plotting-48971)                                   |
+|     367 | 📖 Creating Customized 3D Surface Plots                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-customized-3d-surface-plots-48971)                             |
 |     368 | 📖 Violin Plotting With Matplotlib                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-violin-plotting-with-matplotlib-49023)                                  |
 |     369 | 📖 Select Indices Using Polygon Selector                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-select-indices-using-polygon-selector-48877)                            |
 |     370 | 📖 Matplotlib PSD Plotting                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-psd-plotting-48884)                                          |
@@ -391,7 +391,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     381 | 📖 Matplotlib Image Grid Visualization                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-image-grid-visualization-48681)                          |
 |     382 | 📖 Matplotlib Nested Gridspecs Visualization             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-nested-gridspecs-visualization-48759)                        |
 |     383 | 📖 Custom Matplotlib Grid Axes Creation                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-custom-matplotlib-grid-axes-creation-48930)                             |
-|     384 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-in-python-48551)                               |
+|     384 | 📖 Matplotlib Visualizations for Data Analysis           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualizations-for-data-analysis-48551)                      |
 |     385 | 📖 Centeringels Between Ticks                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-centeringels-between-ticks-48600)                                       |
 |     386 | 📖 Annotate Figures with AnnotationBbox                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-annotate-figures-with-annotationbbox-48659)                             |
 |     387 | 📖 Matplotlib Text Rotation                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-text-rotation-48686)                                         |
@@ -424,12 +424,12 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     414 | 📖 Creating Zoomed Inset With Matplotlib                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-zoomed-inset-with-matplotlib-48787)                            |
 |     415 | 📖 Display Images with Matplotlib                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-display-images-with-matplotlib-48789)                                   |
 |     416 | 📖 Create Customizable Boxplots with Matplotlib          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-customizable-boxplots-with-matplotlib-48595)                     |
-|     417 | 📖 Matplotlib Axis Direction                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-axis-direction-48665)                                        |
+|     417 | 📖 Change Axis Direction in Matplotlib                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-change-axis-direction-in-matplotlib-48665)                              |
 |     418 | 📖 Matplotlib 2D Image Plotting with pcolormesh          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-matplotlib-2d-image-plotting-with-pcolormesh-48860)                 |
 |     419 | 📖 Creating a Scale Invariant Angleel                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-a-scale-invariant-angleel-48537)                               |
 |     420 | 📖 Matplotlib Horizontal Bar Chart                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-horizontal-bar-chart-48581)                                  |
 |     421 | 📖 Mastering Subplot Customization with GridSpec         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-mastering-subplot-customization-with-gridspec-48679)                    |
-|     422 | 📖 Matplotlib Fonts Demo                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-fonts-demo-48747)                                            |
+|     422 | 📖 Customizing Matplotlib Font Properties                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-customizing-matplotlib-font-properties-48747)                           |
 |     423 | 📖 Matplotlib GridSpec Layout Visualization              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-gridspec-layout-visualization-48758)                         |
 |     424 | 📖 Hexagonal Binned Plot                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-hexagonal-binned-plot-48765)                                            |
 |     425 | 📖 Plotting Non-Uniform Images with Matplotlib           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-plotting-non-uniform-images-with-matplotlib-48781)                      |
@@ -438,7 +438,7 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     428 | 📖 Matplotlib Axes Divider                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-axes-divider-48931)                                          |
 |     429 | 📖 Usetex Font Effects                                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-usetex-font-effects-49020)                                              |
 |     430 | 📖 Primary 3D View Planes                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-primary-3d-view-planes-49021)                                           |
-|     431 | 📖 Matplotlib 3D Voxel Plot                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-voxel-plot-49027)                                         |
+|     431 | 📖 Creating 3D Voxel Plots in Matplotlib                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-creating-3d-voxel-plots-in-matplotlib-49027)                            |
 |     432 | 📖 Custom Tick Formatter for Time Series                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-custom-tick-formatter-for-time-series-48654)                            |
 |     433 | 📖 Ishikawa Diagram Creation                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-ishikawa-diagram-creation-48792)                                        |
 |     434 | 📖 Mathtext Wx Sgskip                                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-mathtext-wx-sgskip-48826)                                               |
@@ -477,9 +477,9 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 |     467 | 📖 Matplotlib Inset Locator                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-inset-locator-48786)                                         |
 |     468 | 📖 Multivariate Normal Distribution Visualizations       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-multivariate-normal-distribution-visualizations-48881)                  |
 |     469 | 📖 Simple Axis Pad                                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-simple-axis-pad-71152)                                                  |
-|     470 | 📖 Matplotlib 3D Voxel Plot                              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-3d-voxel-plot-49026)                                         |
+|     470 | 📖 Create 3D Voxel Plots with RGB                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-create-3d-voxel-plots-with-rgb-49026)                                   |
 |     471 | 📖 Matplotlib Math Rendering Engine                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-math-rendering-engine-48824)                                 |
-|     472 | 📖 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-gravitational-simulation-of-earth-and-super-jupiter-298885)         |
+|     472 | 📖 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/matplotlib-gravitational-simulation-of-earth-and-super-jupiter-lab-298885)     |
 |     473 | 📖 Gtk4 Spreadsheet Sgskip                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-gtk4-spreadsheet-sgskip-48761)                                          |
 |     474 | 📖 Matplotlib Visualization with Collections             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-visualization-with-collections-48604)                        |
 |     475 | 📖 Matplotlib Contour Line Visualization                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/python-matplotlib-contour-line-visualization-48622)                            |
@@ -515,39 +515,39 @@ Matplotlib is a Python library for creating visualizations of data. It provides 
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
